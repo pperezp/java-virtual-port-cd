@@ -1,0 +1,1 @@
+Java Virtual Port CD (JVPortCD) es un software creado a fin de facilitar tu búsqueda de CD o DVD personales almacenados en porta CD y/o “CD bag”. Es decir, a través de este software puedes crear un inventario virtual de material real que dispongas
